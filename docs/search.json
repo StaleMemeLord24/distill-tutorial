@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nMy name is Nathan Rothschild and I attend Concord\r\nAcademy in Concord, Massachusetts. I love tennis, economics, business,\r\nand working with data.\r\nAbout the Project\r\nBest Combinations for Tennis\r\nThis is an explanation for the project.\r\nGoals\r\nBullet 1\r\nChallenge\r\n\r\nBullet 2\r\nBullet 3\r\n“This is data science”\r\n~Preceptor\r\n“Kane’s Free High School\r\nData Science Bootcamp”\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-26T20:30:35-04:00"
+      "last_modified": "2022-06-26T20:47:23-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-26T20:30:38-04:00"
+      "last_modified": "2022-06-26T20:47:26-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A.\n",
+      "author": [
+        {
+          "name": "Nathan Rothschild",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-26T20:47:27-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B.\n",
+      "author": [
+        {
+          "name": "Nathan Rothschild",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-26T20:47:28-04:00"
     }
   ],
   "collections": []
