@@ -8,3 +8,20 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+My name is **Nathan Rothschild** and I attend Concord Academy in Concord, Massachusetts. I love tennis, economics, business, and working with data.
+
+## About the Project
+*Best Combinations for Tennis*  
+This is an explanation for the project.
+
+### Goals
+* Bullet 1
+  + Challenge
+* Bullet 2 
+* Bullet 3
+
+"This is data science"  
+~Preceptor
+
+["Kane's Free High School Data Science Bootcamp"](https://bootcamp.davidkane.info)
